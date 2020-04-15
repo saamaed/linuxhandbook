@@ -1,2 +1,2 @@
 # linuxhandbook
-Persian Linux Handbook
+Linux Handbook Farsi
